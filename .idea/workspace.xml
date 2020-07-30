@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa58b9ae-5876-401a-86ee-ebba33955d82" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="22701eba-fb65-4d74-a61c-d680feee7cb3" />
+  <component name="ProjectId" id="1eIqStdcV87dDdKFwR9scxNI5yp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Startup" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Face_Recognition_v3a">
+    <configuration name="Face_Recognition_v3a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Triplet_loss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Face_Recognition_v3a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Triplet_loss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_reshaper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Triplet_loss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_reshaper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="isk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Triplet_loss" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/isk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Face_Recognition_v3a" />
+        <item itemvalue="Python.image_reshaper" />
+        <item itemvalue="Python.isk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa58b9ae-5876-401a-86ee-ebba33955d82" name="Default Changelist" comment="" />
+      <created>1594019458014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594019458014</updated>
+      <workItem from="1594019460884" duration="2031000" />
+      <workItem from="1594048746782" duration="1015000" />
+      <workItem from="1594058862971" duration="692000" />
+      <workItem from="1594060018734" duration="187000" />
+      <workItem from="1594060901043" duration="242000" />
+      <workItem from="1594227174591" duration="619000" />
+      <workItem from="1594366293418" duration="16027000" />
+      <workItem from="1594459948552" duration="2507000" />
+      <workItem from="1594463347381" duration="2016000" />
+      <workItem from="1594531700912" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1594531899430">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1594531899430" />
+    <state width="1874" height="271" key="GridCell.Tab.0.bottom" timestamp="1594483529772">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="271" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1594483529772" />
+    <state width="1874" height="271" key="GridCell.Tab.0.center" timestamp="1594483529770">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="271" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1594483529770" />
+    <state width="1874" height="271" key="GridCell.Tab.0.left" timestamp="1594483529768">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="271" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1594483529768" />
+    <state width="1874" height="271" key="GridCell.Tab.0.right" timestamp="1594483529770">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="271" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1594483529770" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1594019588867">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1594019588867" />
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1594460385977">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="623" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1594460385977" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Triplet_loss$Face_Recognition_v3a.coverage" NAME="Face_Recognition_v3a Coverage Results" MODIFIED="1594463980862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Triplet_loss$isk.coverage" NAME="isk Coverage Results" MODIFIED="1594049152219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Triplet_loss$image_reshaper.coverage" NAME="image_reshaper Coverage Results" MODIFIED="1594406393966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
