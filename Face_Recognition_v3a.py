@@ -54,6 +54,7 @@ database["henry"] = img_to_encoding("images/henry.jpg", FRmodel)
 database["nithin"] = img_to_encoding("images/nithin.jpg", FRmodel)
 database["ben"] = img_to_encoding("images/ben.jpg", FRmodel)
 
+
 def verify(image_path, identity, database, model):
 
     encoding = img_to_encoding(image_path, model)
